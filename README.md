@@ -38,7 +38,7 @@ Propor a arquitetura do **QuimiPort**, solução para gestão inicial de cargas 
 
 **Invariantes:** produto ativo, risco informado, quantidade positiva, responsável técnico definido; documentação obrigatória antes da liberação; carga bloqueada não movimenta; cancelada não libera; em inspeção não finaliza antes de liberação.
 
-**Arquitetura sugerida:** monólito modular com \`domain\`, \`application\`, \`infrastructure\` e \`interfaces\`; TypeScript com tipagem estrita. O código funcional será tratado nas fases futuras, se exigido.
+**Arquitetura sugerida:** monólito modular com `domain`, `application`, `infrastructure` e `interfaces`; TypeScript com tipagem estrita. O código funcional será tratado nas fases futuras, se exigido.
 
 ## Como colaborar
 
@@ -46,10 +46,10 @@ Propor a arquitetura do **QuimiPort**, solução para gestão inicial de cargas 
 2. Consultar as [tarefas](docs/10-backlog.md) ou [Issues](../../issues).
 3. Escolher uma atividade com a equipe; não se autoatribuir trabalho alheio.
 4. Criar uma branch, atualizar documentação e abrir pull request.
-5. Pedir revisão de outro integrante antes de integrar na \`main\`.
+5. Pedir revisão de outro integrante antes de integrar na `main`.
 6. Preparar e conferir coletivamente o vídeo exigido.
 
-**Fontes:** enunciado oficial \`10FSDT -Tech Challenge - Fase 1.pdf\` fornecido aos estudantes. Este repositório contém **textos originais elaborados para o grupo** e não republica o PDF institucional.
+**Fontes:** enunciado oficial `10FSDT -Tech Challenge - Fase 1.pdf` fornecido aos estudantes. Este repositório contém **textos originais elaborados para o grupo** e não republica o PDF institucional.
 
 ## Licença
 

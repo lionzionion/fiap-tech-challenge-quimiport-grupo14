@@ -4,10 +4,10 @@
 1. Leia o [README](README.md) e o [checklist oficial](docs/14-checklist-entrega.md).
 2. Selecione uma [issue](../../issues) ou proponha outra atividade.
 3. Confirme com o grupo quem será responsável e quem fará a revisão.
-4. Crie branch por atividade, por exemplo: \`docs/qp14-04-entidades\`.
+4. Crie branch por atividade, por exemplo: `docs/qp14-04-entidades`.
 5. Edite os Markdown e diagramas sem apagar trabalho de colegas.
 6. Abra pull request explicando mudanças e páginas do enunciado.
-7. Aguarde revisão, incorpore ajustes e integre na \`main\` após aprovação.
+7. Aguarde revisão, incorpore ajustes e integre na `main` após aprovação.
 
 ## Padrão editorial
 - Diferenciar claramente **exigências do PDF** de **decisões/propostas do grupo**.

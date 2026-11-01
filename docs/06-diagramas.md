@@ -50,7 +50,7 @@ classDiagram
   CargaQuimica --> AreaArmazenamento : opcional
 ~~~
 
-Objetos de valor no agregado: \`ClassificacaoRisco\`, \`QuantidadeCarga\`, \`StatusCarga\` e \`IdentificadorCarga\`. Ver [DDD](02-modelagem-ddd.md).
+Objetos de valor no agregado: `ClassificacaoRisco`, `QuantidadeCarga`, `StatusCarga` e `IdentificadorCarga`. Ver [DDD](02-modelagem-ddd.md).
 
 ## B. Obrigatório — Fluxo de status (proposto)
 

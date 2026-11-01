@@ -31,4 +31,4 @@
 - **M3 — Apresentação e entrega (17–19)**
 
 ## Fluxo de colaboração
-\`Backlog → Ready → Doing → Review → Done\`; adicionar estado **Blocked** quando necessário. Cada issue precisa de responsável, revisor, evidência e vínculo com página(s) do enunciado. **Não atribuir a colegas sem consenso.**
+`Backlog → Ready → Doing → Review → Done`; adicionar estado **Blocked** quando necessário. Cada issue precisa de responsável, revisor, evidência e vínculo com página(s) do enunciado. **Não atribuir a colegas sem consenso.**

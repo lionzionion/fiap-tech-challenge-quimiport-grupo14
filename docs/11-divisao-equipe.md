@@ -16,7 +16,7 @@
 - Canal de comunicação: Discord da turma/grupo.
 - Reunião de kickoff e check-ins de 15–20 minutos, a combinar.
 - Pull requests em branches individuais; no mínimo um colega revisor.
-- Registrar decisões em \`docs/decisoes/\`.
+- Registrar decisões em `docs/decisoes/`.
 - Não usar GitHub para armazenar senha, dados sensíveis, documentação real de cargas ou o PDF institucional sem autorização.
 
 ## Mensagem inicial ao grupo

@@ -26,14 +26,14 @@
 | **AreaArmazenamento** | Representar local | id, nome, restricoes | Associação opcional; compatibilidade futura |
 
 ## Objetos de valor
-- \`ClassificacaoRisco\`: valor não vazio e padronizado; **não supor taxonomia normativa**.
-- \`QuantidadeCarga\`: número finito maior que zero e unidade.
-- \`StatusCarga\`: valor pertencente ao conjunto de estados acordado.
-- \`IdentificadorCarga\`: identificador único não vazio.
-- \`SituacaoDocumento\`: exemplo de estados PENDENTE, VALIDO, INVALIDO.
+- `ClassificacaoRisco`: valor não vazio e padronizado; **não supor taxonomia normativa**.
+- `QuantidadeCarga`: número finito maior que zero e unidade.
+- `StatusCarga`: valor pertencente ao conjunto de estados acordado.
+- `IdentificadorCarga`: identificador único não vazio.
+- `SituacaoDocumento`: exemplo de estados PENDENTE, VALIDO, INVALIDO.
 
 ## Agregado principal
-\`CargaQuimica\` é a **Aggregate Root** proposta: conserva invariantes de produto, quantidade, responsável, documentos, inspeções, transições e histórico. \`ProdutoQuimico\` é cadastro próprio, referenciado por ID e consultado no caso de uso para impedir vínculo de produto inativo.
+`CargaQuimica` é a **Aggregate Root** proposta: conserva invariantes de produto, quantidade, responsável, documentos, inspeções, transições e histórico. `ProdutoQuimico` é cadastro próprio, referenciado por ID e consultado no caso de uso para impedir vínculo de produto inativo.
 
 ## Bounded contexts candidatos
 **Catálogo Químico**, **Operações de Carga** e **Conformidade/Documentação**. A separação física em serviços não é necessária nesta fase.

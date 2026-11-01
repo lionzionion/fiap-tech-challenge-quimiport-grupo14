@@ -12,7 +12,7 @@ flowchart TB
 ~~~
 
 ## Responsabilidades
-- **domain:** regras de produto e carga, Aggregate Root \`CargaQuimica\`, valores, estados e erros. Não importa banco nem framework.
+- **domain:** regras de produto e carga, Aggregate Root `CargaQuimica`, valores, estados e erros. Não importa banco nem framework.
 - **application:** coordena casos de uso UC01–UC11, interfaces de repositório e autorizações futuras.
 - **infrastructure:** adaptadores de persistência, logs e integrações técnicas futuras.
 - **interfaces:** pontos de entrada (API/CLI/frontend/mobile), sem duplicar regras.

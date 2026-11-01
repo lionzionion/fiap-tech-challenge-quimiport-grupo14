@@ -7,10 +7,10 @@ O QuimiPort exige documentação de domínio, regras de negócio, arquitetura e 
 
 ## Decisão
 Adotar como **proposta** uma arquitetura modular em TypeScript estrito com:
-- \`domain\` — entidades, VOs, agregados, regras e erros;
-- \`application\` — casos de uso e contratos/ports;
-- \`infrastructure\` — persistência e integrações futuras;
-- \`interfaces\` — API, CLI e interface web/móvel futuras.
+- `domain` — entidades, VOs, agregados, regras e erros;
+- `application` — casos de uso e contratos/ports;
+- `infrastructure` — persistência e integrações futuras;
+- `interfaces` — API, CLI e interface web/móvel futuras.
 
 ## Benefícios
 Testabilidade, encapsulamento de regras, baixo acoplamento e evolução incremental.
